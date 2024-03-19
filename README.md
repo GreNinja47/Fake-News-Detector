@@ -1,2 +1,2 @@
 # Fake-News-Detector
-The NLP model designed to detect between the fake and real news
+Utilizing LSTM architecture and Word2Vec embeddings, the NLP model helps in discerning the fake news accurately to help spread of viral misinformation & misleading news. 
